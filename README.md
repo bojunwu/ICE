@@ -10,4 +10,4 @@ When in any kinds of emergency, user only needs to click the app(which has a big
 It was designed in 2013 on iOS 6 platform and fully tested on iPhone 5 & and iPhone 5 simulator. It may only run on iphone 5 simulator now with the latest Xcode.
 ![ice1](https://cloud.githubusercontent.com/assets/9892226/20862993/aeef0ea2-b978-11e6-9549-8a21c1d040c5.png)
 ![ice2](https://cloud.githubusercontent.com/assets/9892226/20862994/af8cf11c-b978-11e6-8c72-4f74cdd73158.png)
-![ice3](https://cloud.githubusercontent.com/assets/9892226/20863049/295371f4-b97b-11e6-91a1-5aec750a3551.png)
+![ice3](https://cloud.githubusercontent.com/assets/9892226/20863053/48fa11de-b97b-11e6-8404-4df6fe295b62.png)
